@@ -7,12 +7,11 @@
 </head>
 <body>
     <H1>About Us</H1>
+    <H2>Puran Chaudhary</H2>
+    
     <p>We are a team of passionate individuals dedicated to providing the best services to our clients.</p>
 
-    <div>
-        <p>Our mission is to exceed customer expectations and deliver exceptional value in everything we do.    </p>
-    </div>
-
+    
     
 </body>
 </html>

@@ -30,4 +30,8 @@ Route::get('/gallery', function () {
     return view('gallery');
 }); 
 
+Route::get('/about/{name}', function ($name) {
+    return view('about',['name'=>$name]);
+});
+
 require __DIR__.'/settings.php';
